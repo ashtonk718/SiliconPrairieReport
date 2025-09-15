@@ -42,6 +42,11 @@
   </url>
 
   <url>
+    <loc>https://siliconprairiereport.com/list_of_vibe_coding_tools.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
     <loc>https://siliconprairiereport.com/articles-heartland-dev-conference.html</loc>
     <priority>0.6</priority>
   </url>
@@ -97,3 +102,4 @@
   </url>
 
 </urlset>
+
